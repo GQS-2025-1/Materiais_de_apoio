@@ -1,1 +1,1 @@
-📌 Apresenta exemplos práticos e códigos ilustrando os conceitos da abordados.
+📌 Inclui apresentações e referências úteis sobre os temas abordados.
